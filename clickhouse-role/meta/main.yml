@@ -1,6 +1,6 @@
 galaxy_info:
   author: Roman Lystsev
-  description: vector installation
+  description: clickhouse installation
   company: homelab
 
   license: MIT
